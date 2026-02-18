@@ -1,4 +1,4 @@
-[![Shopco Screenshot](https://github.com/Ahmed-Hany-dev)](https://github.com/Ahmed-Hany-dev)
+[![Shopco Screenshot](https://i.ibb.co/nsQdvHKy/Screenshot-Brave.jpg)]("https://i.ibb.co/nsQdvHKy/Screenshot-Brave.jpg")
 
 # Shopco
 
@@ -26,7 +26,7 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo](https://shop-com-omega.vercel.app/)
 
 <!-- [![Shopco Screenshot](https://github.com/Ahmed-Hany-dev)](https://github.com/Ahmed-Hany-dev) -->
 
